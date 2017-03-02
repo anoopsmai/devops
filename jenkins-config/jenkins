@@ -3,6 +3,8 @@
 # pulled in from the init script; makes things easier.
 NAME=jenkins
 
+#for commit
+
 # location of java
 JAVA=/usr/bin/java
 
